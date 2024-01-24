@@ -1,17 +1,16 @@
 {
-    "name": "markdi\/markdi",
-    "description": "di plugin",
+    "name": "marksync\/di",
+    "description": "di",
     "type": "meta",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "markdi\\": "src\/",
-            "markexample\\": "example\/"
+            "markdi\\": "src\/"
         }
     },
     "authors": [
         {
-            "name": "Ilya Shveikin",
+            "name": "II",
             "email": "no_soap_0@mail.ru"
         }
     ],
